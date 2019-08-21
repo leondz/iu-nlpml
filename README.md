@@ -17,6 +17,11 @@ This is a computer science course, expecting some knowledge of machine learning
 
 Three assignments, one per week; they are worth 30%, 30% and 40% of the final grade.
 
+## Reading
+
+* [Manning and Schutze](https://www.cs.vassar.edu/~cs366/docs/Manning_Schuetze_StatisticalNLP.pdf)
+* 
+
 # Week 1
 
 ## Day 1
