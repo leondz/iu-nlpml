@@ -1,10 +1,17 @@
 # Natural Language Processing and Machine Learning
 
+Great thanks to Rob Gaizauskas (U Sheffield), Noah Smith (U Washington), Chris Manning and the CS224n staffers (Stanford)
+
 # Info
 
 This is a computer science course, expecting some knowledge of machine learning
 
 ## Schedule
+* Monday 12.10-15.40 rm 103
+* Tuesday 12.10-15.40 rm 306
+* Wednesday 9.00-10.30, 14.10-15.40 rm 102
+* Thursday 14.10-17.15 rm 316
+* Friday 9.00-12.05 rm 103
 
 ## Assessment
 
