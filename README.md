@@ -28,7 +28,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 
 ## Day 2
 * Tokenization [slides 1f](1f - tokenization.pdf) [slides 1g](1g - tokenization approaches.pdf)
-* Exercise 1: sentiment classifier [slides](reviews.ipynb)
+* Exercise 1: sentiment classifier [slides](2c - ngrams exercise (movie reviews).pdf) [notebook](reviews.ipynb)
 
 ## Day 3
 * Word embeddings [slides stanford](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf) [notes stanford](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf) [slides yoav](https://www.slideshare.net/mlreview/yoav-goldberg-word-embeddings-what-how-and-whither) 
