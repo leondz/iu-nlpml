@@ -40,4 +40,4 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Lexical semantics [slides](3a - lexical semantics.pdf)
 
 ## Day 4
-* 
+* Word similarity [slides](3c - word similarity.pdf)
