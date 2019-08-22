@@ -41,3 +41,4 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 
 ## Day 4
 * Word similarity [slides](3c - word similarity.pdf)
+* Part of Speech tagging [slides](2d - pos tags.pdf), [extra slides](4d-markov.pdf) 
