@@ -47,4 +47,4 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 ## Day 5
 * Word embeddings [slides](9b-embeddings.pdf)
 * LSTM [slides](11a-lstm.pdf)
-* [Assignment 1](assignment%201.pdf)
+* [Assignment 1](assignment%201.pdf) - due 20 Sept
