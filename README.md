@@ -48,3 +48,14 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Word embeddings [slides](9b-embeddings.pdf)
 * LSTM [slides](11a-lstm.pdf)
 * [Assignment 1](assignment%201.pdf) - due 20 Sept
+
+# Week 2
+
+## Day 1
+* Perceptrons, [slides](6a-nnets and dl.pdf)
+* Backpropagation, [slides](6c-multilayer.pdf)
+
+## Day 2
+* Backpropagation and word encoding, [slides](lstm2.pdf), 
+* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html) 
+* Exercise - autoencoder for text; see the Keras blog, the slides from earlier in the course, and this [tutorial](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
