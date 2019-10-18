@@ -59,3 +59,6 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Backpropagation and word encoding, [slides](lstm2.pdf), 
 * Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html) 
 * Exercise - autoencoder for text; see the Keras blog, the slides from earlier in the course, and this [tutorial](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+
+## Project
+* Some sample ideas & recommendations for the project format [slides](project.pdf)
