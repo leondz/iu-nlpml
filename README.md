@@ -70,3 +70,12 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 
 ## Project
 * Some sample ideas & recommendations for the project format [slides](project.pdf)
+
+# Week 3
+
+## Day 1
+* Project help / presentations
+
+## Day 2
+* CRFsuite: a brief tour [slides](4e-crfsuite.pdf), [data](4f.tar.gz)
+* Social media processing [intro](8a.pdf), [language](8b.pdf)
