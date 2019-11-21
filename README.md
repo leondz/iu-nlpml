@@ -1,6 +1,6 @@
 # Natural Language Processing and Machine Learning
 
-Great thanks to Rob Gaizauskas (U Sheffield), Noah Smith (U Washington), Chris Manning and the CS224n staffers (Stanford)
+Great thanks to Rob Gaizauskas (U Sheffield), Noah Smith (U Washington), Chris Manning and the CS224n staffers (Stanford), GATE, Manuel Ciosici, Philipp Koehn
 
 # Info
 
@@ -79,3 +79,9 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 ## Day 2
 * CRFsuite: a brief tour [slides](4e-crfsuite.pdf), [data](4f.tar.gz)
 * Social media processing [intro](8a.pdf), [language](8b.pdf)
+
+## Day 3
+* Named entity recognition [slides](8c.pdf) with live examples from [displaCy](https://explosion.ai/demos/displacy-ent)
+
+## Day 4
+* Advanced clustering, word clustering [slides](clustering_slides.pdf)
