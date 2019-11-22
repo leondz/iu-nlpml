@@ -85,3 +85,9 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 
 ## Day 4
 * Advanced clustering, word clustering [slides](clustering_slides.pdf)
+
+## Day 5
+* Course recap
+* Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
+* Transformer [tutorial](http://jalammar.github.io/illustrated-transformer/)
+* Assignment: NER
