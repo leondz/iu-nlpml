@@ -90,4 +90,4 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Course recap
 * Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
 * Transformer [tutorial](http://jalammar.github.io/illustrated-transformer/)
-* Assignment: NER
+* Assignment: [NER](assignment%203.pdf)
