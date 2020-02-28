@@ -43,10 +43,9 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Word similarity [slides](3c - word similarity.pdf)
 * Part of Speech tagging [slides](2d - pos tags.pdf), [extra slides](4d-markov.pdf) 
 
-
 ## Day 5
 * Word embeddings [slides](9b-embeddings.pdf)
-* LSTM [slides](11a-lstm.pdf)
+* Language models and smoothing [slides](smoothing.pdf)
 * [Assignment 1](assignment%201.pdf) 
 
 # Week 2
@@ -56,6 +55,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Backpropagation, [slides](6c-multilayer.pdf)
 
 ## Day 2
+* LSTM [slides](11a-lstm.pdf)
 * Backpropagation and word encoding, [slides](lstm2.pdf), 
 * Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html) 
 * Exercise - autoencoder for text; see the Keras blog, the slides from earlier in the course, and this [tutorial](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
