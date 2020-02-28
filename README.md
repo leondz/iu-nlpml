@@ -7,11 +7,11 @@ Great thanks to Rob Gaizauskas (U Sheffield), Noah Smith (U Washington), Chris M
 This is a computer science course, expecting some knowledge of machine learning
 
 ## Schedule
-* Monday 12.10-15.40 rm 103
-* Tuesday 12.10-15.40 rm 306
-* Wednesday 9.00-10.30, 14.10-15.40 rm 102
-* Thursday 14.10-17.15 rm 316
-* Friday 9.00-12.05 rm 103
+* Monday 09.00-13.40
+* Tuesday 17.20-18.50
+* Wednesday 09.00-12.05
+* Thursday 09.00-10.30, 15.45-17.15
+* Friday 10.35-13.40
 
 ## Assessment
 
@@ -47,7 +47,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 ## Day 5
 * Word embeddings [slides](9b-embeddings.pdf)
 * LSTM [slides](11a-lstm.pdf)
-* [Assignment 1](assignment%201.pdf) - due 20 Sept
+* [Assignment 1](assignment%201.pdf) 
 
 # Week 2
 
@@ -67,9 +67,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 
 ## Day 5
 * Dialogue [slides](10a.pdf)
-
-## Project
-* Some sample ideas & recommendations for the project format [slides](project.pdf)
+* Assignment: [NER](assignment%203.pdf)
 
 # Week 3
 
@@ -90,4 +88,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Course recap
 * Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
 * Transformer [tutorial](http://jalammar.github.io/illustrated-transformer/)
-* Assignment: [NER](assignment%203.pdf)
+
+
+## Project
+* Some sample ideas & recommendations for the project format [slides](project.pdf)
