@@ -4,7 +4,7 @@ Great thanks to Rob Gaizauskas (U Sheffield), Noah Smith (U Washington), Chris M
 
 # Info
 
-This is a computer science course, expecting some knowledge of machine learning
+This is a computer science course, expecting some knowledge of machine learning and good programming skills.
 
 ## Schedule
 * Monday 09.00-13.40
@@ -46,7 +46,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 ## Day 5
 * Word embeddings [slides](9b-embeddings.pdf)
 * Language models and smoothing [slides](smoothing.pdf)
-* [Assignment 1](assignment%201.pdf) 
+* [Assignment 1](assn1-hmm-emb.pdf): HMM Tagger -or- Embedding induction
 
 # Week 2
 
