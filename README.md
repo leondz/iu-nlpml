@@ -20,7 +20,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 ## Reading
 
 * [Manning and Schutze](https://www.cs.vassar.edu/~cs366/docs/Manning_Schuetze_StatisticalNLP.pdf)
-* 
+
 
 # Week 1
 
@@ -51,9 +51,9 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 # Week 2
 
 ## Day 1
-* Perceptrons, [slides](6a-nnets and dl.pdf) [notebook](https://colab.research.google.com/drive/1eELLPBIZEkS7UYiPjfPaqdESLHS6uYk6)
+* Perceptrons, [slides](6a-nnets and dl.pdf), [notebook](https://colab.research.google.com/drive/1eELLPBIZEkS7UYiPjfPaqdESLHS6uYk6)
 * Backpropagation, [slides](6c-multilayer.pdf)
-* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html) [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK) [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
+* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
 
 
 ## Day 2
