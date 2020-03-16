@@ -51,13 +51,14 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 # Week 2
 
 ## Day 1
-* Perceptrons, [slides](6a-nnets and dl.pdf)
+* Perceptrons, [slides](6a-nnets and dl.pdf) [notebook](https://colab.research.google.com/drive/1eELLPBIZEkS7UYiPjfPaqdESLHS6uYk6)
 * Backpropagation, [slides](6c-multilayer.pdf)
+* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html) [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK) [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
+
 
 ## Day 2
 * LSTM [slides](11a-lstm.pdf)
 * Backpropagation and word encoding, [slides](lstm2.pdf), 
-* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html) 
 * Exercise - autoencoder for text; see the Keras blog, the slides from earlier in the course, and this [tutorial](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
 
 ## Day 4
