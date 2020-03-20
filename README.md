@@ -68,7 +68,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 
 ## Day 5
 * Dialogue [slides](10a.pdf)
-* Assignment: [NER](assignment%203.pdf)
+* Assignment: [Sequence-to-sequence prediction](assignment%2seq2seq.pdf)
 
 # Week 3
 
