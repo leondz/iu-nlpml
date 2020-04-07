@@ -73,21 +73,22 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 # Week 3
 
 ## Day 1
-* Project help / presentations
-
-## Day 2
 * CRFsuite: a brief tour [slides](4e-crfsuite.pdf), [data](4f.tar.gz)
 * Social media processing [intro](8a.pdf), [language](8b.pdf)
+* Named entity recognition [slides](8c.pdf). Examples from [displaCy](https://explosion.ai/demos/displacy-ent)
+
+## Day 2
+* Gradient descent [slides](12-gd.pdf)
 
 ## Day 3
-* Named entity recognition [slides](8c.pdf) with live examples from [displaCy](https://explosion.ai/demos/displacy-ent)
+* Advanced clustering, word clustering [slides](clustering_slides.pdf)
 
 ## Day 4
-* Advanced clustering, word clustering [slides](clustering_slides.pdf)
+* Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
+
 
 ## Day 5
 * Course recap
-* Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
 * Transformer [tutorial](http://jalammar.github.io/illustrated-transformer/)
 
 
