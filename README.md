@@ -94,11 +94,11 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 ## Project
 * Some sample ideas & recommendations for the project format [slides](project.pdf)
 * More project ideas:
-  * (Propaganda detection)[https://propaganda.qcri.org/semeval2020-task11/]
-  * (Machine translation)[http://www.statmt.org/wmt19/translation-task.html]
-  * (Hate speech detection)[http://hatespeechdata.com/] - maybe for a new language
-  * (Question answering)[https://rajpurkar.github.io/SQuAD-explorer/]
-  * (Morphology tasks)[https://sigmorphon.github.io/sharedtasks/2020/] - inflection, grapheme-phoneme, unsupervised (choose max. one!)
-  * (BioNLP tasks)[https://2019.bionlp-ost.org/tasks] (choose just one!)
-  * (Offensive language)[https://sites.google.com/site/offensevalsharedtask/]
-  * (Conversational AI challenge)[http://convai.io/]
+  * [Propaganda detection](https://propaganda.qcri.org/semeval2020-task11/)
+  * [Machine translation](http://www.statmt.org/wmt19/translation-task.html)
+  * [Hate speech detection](http://hatespeechdata.com/) - maybe for a new language
+  * [Question answering](https://rajpurkar.github.io/SQuAD-explorer/)
+  * [Morphology tasks](https://sigmorphon.github.io/sharedtasks/2020/) - inflection, grapheme-phoneme, unsupervised (choose max. one!)
+  * [BioNLP tasks](https://2019.bionlp-ost.org/tasks) (choose just one!)
+  * [Offensive language](https://sites.google.com/site/offensevalsharedtask/)
+  * [Conversational AI challenge](http://convai.io/)
