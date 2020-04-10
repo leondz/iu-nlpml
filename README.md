@@ -101,5 +101,4 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
   * (Morphology tasks)[https://sigmorphon.github.io/sharedtasks/2020/] - inflection, grapheme-phoneme, unsupervised (choose max. one!)
   * (BioNLP tasks)[https://2019.bionlp-ost.org/tasks] (choose just one!)
   * (Offensive language)[https://sites.google.com/site/offensevalsharedtask/]
-  
- 
+  * (Conversational AI challenge)[http://convai.io/]
