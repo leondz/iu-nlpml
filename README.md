@@ -92,6 +92,7 @@ Three assignments, one per week; they are worth 30%, 30% and 40% of the final gr
 * Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
 
 ## Project
+* Extended deadline: May 7, 2020
 * Some sample ideas & recommendations for the project format [slides](project.pdf)
 * More project ideas:
   * [Propaganda detection](https://propaganda.qcri.org/semeval2020-task11/)
