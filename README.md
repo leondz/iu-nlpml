@@ -1,6 +1,6 @@
 # Natural Language Processing and Machine Learning
 
-Slides with thanks to: Rob Gaizauskas (U Sheffield), Lucia Specia (Imperal), Noah Smith (U Washington), Chris Manning and the CS224n staffers (Stanford), GATE, Manuel Ciosici, Philipp Koehn, Jay Alammar, and many others - credits given on slides
+Slides with thanks to: Rob Gaizauskas (U Sheffield), Lucia Specia (Imperial), Noah Smith (U Washington), Chris Manning and the CS224n staffers (Stanford), GATE, Manuel Ciosici, Philipp Koehn, Jay Alammar, and many others - credits given on slides
 
 # Info
 
