@@ -22,18 +22,16 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 
 * Introduction to the course [slides](1a - admin, intro.odp)
 * Outline of NLP [slides](1b - nlp outline.pdf)
-* What is NLP - details [slides](1c - what is nlp - details.pdf)
 * What is NLP - challenges [slides](1d - what is nlp - challenges and brief tour.pdf)
 * Levels of linguistics [slides](1e - levels of linguistics, syntax phonology etc.pdf)
 * Intro to ML [slides](intro_to_ml.pdf)
   * ex. 2_1: https://gist.github.com/leondz/06495f7a505117c30ab31e4c98f02ded
   * ex. 2_2: https://gist.github.com/leondz/9a5b95b0f3a3d18fa957e406d1dda207
   * ex. 2_3: https://gist.github.com/leondz/a31f9a2b0dc8bd5c21e66df428ab14b8
+* Perceptrons, [slides](6a-nnets and dl.pdf), [notebook](https://colab.research.google.com/drive/1eELLPBIZEkS7UYiPjfPaqdESLHS6uYk6)
 
 * Tokenization [slides 1f](1f - tokenization.pdf), [slides 1g](1g - tokenization approaches.pdf)
-* Exercise 1: sentiment classifier [slides](2c - ngrams exercise (movie reviews).pdf), [notebook](reviews.ipynb)
-
-
+<!-- * Exercise 1: sentiment classifier [slides](2c - ngrams exercise (movie reviews).pdf), [notebook](reviews.ipynb) -->
 * Word embeddings [slides stanford](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf), [notes stanford](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf), [slides yoav](https://www.slideshare.net/mlreview/yoav-goldberg-word-embeddings-what-how-and-whither) 
 * Lexical semantics [slides](3a - lexical semantics.pdf)
 
@@ -49,7 +47,6 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 # Week 2
 
 
-* Perceptrons, [slides](6a-nnets and dl.pdf), [notebook](https://colab.research.google.com/drive/1eELLPBIZEkS7UYiPjfPaqdESLHS6uYk6)
 * Backpropagation, [slides](6c-multilayer.pdf)
 * Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
 * Autoencoding for text [exercise](autoenc-exercise.pdf)
