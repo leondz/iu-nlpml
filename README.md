@@ -39,25 +39,25 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 * Word similarity [slides](3c - word similarity.pdf)
 * Part of Speech tagging [slides](2d - pos tags.pdf), [extra slides](4d-markov.pdf) 
 
+* Backpropagation, [slides](6c-multilayer.pdf)
+* LSTM [slides](11a-lstm.pdf)
+* Backpropagation and word encoding, [slides](lstm2.pdf), 
 
 * Word embeddings [slides](9b-embeddings.pdf)
 * Language models and smoothing [slides](smoothing.pdf)
+
+* Statistical machine translation [slides](10c-smt.pdf)
+
 * [Assignment 1](assn1-hmm-emb.pdf): HMM Tagger -or- Embedding induction
 
 # Week 2
 
 
-* Backpropagation, [slides](6c-multilayer.pdf)
 * Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
 * Autoencoding for text [exercise](autoenc-exercise.pdf)
 
 
 
-* LSTM [slides](11a-lstm.pdf)
-* Backpropagation and word encoding, [slides](lstm2.pdf), 
-
-
-* Statistical machine translation [slides](10c-smt.pdf)
 * Sequence-to-sequence learning with Neural Machine translation [blog](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/), attention [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
 * Neural language modelling [slides](neural-lm.pdf)
 
