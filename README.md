@@ -54,9 +54,8 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 * Statistical machine translation [slides](10c-smt.pdf)
 * Sequence to sequence [slides](14-seq2seq.pdf)
 * Neural machine translation with attention [slides](nmt.pdf)
+* Autoencoding [slides](autoenc.pdf)
 
-* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
-* Autoencoding for text [exercise](autoenc-exercise.pdf)
 * Neural language modelling [slides](neural-lm.pdf)
 * Dialogue [slides](10a.pdf)
 * Assignment: [Sequence-to-sequence prediction](assignment%20seq2seq.pdf)
@@ -65,6 +64,10 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 
 Reading:
 * Sequence-to-sequence learning with Neural Machine translation [blog](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/), attention [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
+
+* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
+* Autoencoding for text [exercise](autoenc-exercise.pdf)
+
 
 * Illustrated Transformer [post](http://jalammar.github.io/illustrated-transformer/), [tensor2tensor notebook](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
 * Annotated Transformer [post](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
