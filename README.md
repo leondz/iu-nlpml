@@ -60,7 +60,9 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 * Dialogue [slides](10a.pdf)
 * Assignment: [Sequence-to-sequence prediction](assignment%20seq2seq.pdf)
 
+# Week 3
 
+* Energy efficient NLP [slides](greenai.pdf)
 
 Reading:
 * Sequence-to-sequence learning with Neural Machine translation [blog](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/), attention [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
