@@ -63,37 +63,15 @@ Three assignments; they are worth 30%, 30% and 40% of the final grade.
 # Week 3
 
 * Energy efficient NLP [slides](http://www.derczynski.com/greenai.pdf)
-
-Reading:
-* Sequence-to-sequence learning with Neural Machine translation [blog](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/), attention [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
-
-* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
-* Autoencoding for text [exercise](autoenc-exercise.pdf)
-
-
-* Illustrated Transformer [post](http://jalammar.github.io/illustrated-transformer/), [tensor2tensor notebook](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
-* Annotated Transformer [post](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-
-
-# Week 3
-
-
-* CRFsuite: a brief tour [slides](4e-crfsuite.pdf), [data](4f.tar.gz)
-* Named entity recognition [slides](8c.pdf). Examples from [displaCy](https://explosion.ai/demos/displacy-ent)
-
-* Gradient descent [slides](12-gd.pdf)
-
-* Advanced clustering, word clustering [slides](clustering_slides.pdf)
-
-
-
-
-* Course recap
 * Transfer learning tutorial [NAACL slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc)
+* Distillation [intro slides](https://towardsdatascience.com/knowledge-distillation-simplified-dd4973dbc764), [KL divergence](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained), [original paper](https://arxiv.org/abs/1503.02531)
+* Active learning [intro](https://speakerdeck.com/inesmontani/rapid-nlp-annotation-through-binary-decisions-pattern-bootstrapping-and-active-learning), [review](https://www.cs.cmu.edu/~shilpaa/active_learning_NLP_sachin_shilpa.pdf), [prodi.gy](https://prodi.gy/)
+* Project [info](project.pdf)
+
 
 ## Project
 
-* Some sample ideas & recommendations for the project format [slides](project.pdf)
+* Some sample ideas & recommendations for the project format [slides](project.pdf) - Due date 17 DECEMBER 2021
 * More project ideas:
   * [Propaganda detection](https://propaganda.qcri.org/semeval2020-task11/)
   * [Machine translation](http://www.statmt.org/wmt19/translation-task.html)
@@ -103,3 +81,26 @@ Reading:
   * [BioNLP tasks](https://2019.bionlp-ost.org/tasks) (choose just one!)
   * [Offensive language](https://sites.google.com/site/offensevalsharedtask/)
   * [Conversational AI challenge](http://convai.io/)
+
+
+# Reading:
+
+* Sequence-to-sequence learning with Neural Machine translation [blog](https://www.analyticsvidhya.com/blog/2019/01/neural-machine-translation-keras/), attention [blog](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39)
+
+* Autoencoding [page](https://blog.keras.io/building-autoencoders-in-keras.html), [AE notebook](https://colab.research.google.com/drive/1P1n8LEIzKZSrlvIWx3YdwdNkgFu9facK), [Denoising AE notebook](https://colab.research.google.com/drive/1erwsMQvq3nqjIcK5rHxeWWWBBPZSKtxC)
+* Autoencoding for text [exercise](autoenc-exercise.pdf)
+
+
+* Illustrated Transformer [post](http://jalammar.github.io/illustrated-transformer/), [tensor2tensor notebook](https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb)
+* Annotated Transformer [post](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+# Other NLP & ML optional material
+
+* CRFsuite: a brief tour [slides](4e-crfsuite.pdf), [data](4f.tar.gz)
+* Named entity recognition [slides](8c.pdf). Examples from [displaCy](https://explosion.ai/demos/displacy-ent)
+
+* Gradient descent [slides](12-gd.pdf)
+
+* Advanced clustering, word clustering [slides](clustering_slides.pdf)
+
+
